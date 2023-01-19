@@ -1,0 +1,8 @@
+C:\Users\Leerling6ITN\Desktop\VBConsole\VBConsole\bin\Debug\VBConsole.exe.config
+C:\Users\Leerling6ITN\Desktop\VBConsole\VBConsole\bin\Debug\VBConsole.exe
+C:\Users\Leerling6ITN\Desktop\VBConsole\VBConsole\bin\Debug\VBConsole.pdb
+C:\Users\Leerling6ITN\Desktop\VBConsole\VBConsole\obj\Debug\VBConsole.csproj.AssemblyReference.cache
+C:\Users\Leerling6ITN\Desktop\VBConsole\VBConsole\obj\Debug\VBConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leerling6ITN\Desktop\VBConsole\VBConsole\obj\Debug\VBConsole.csproj.CoreCompileInputs.cache
+C:\Users\Leerling6ITN\Desktop\VBConsole\VBConsole\obj\Debug\VBConsole.exe
+C:\Users\Leerling6ITN\Desktop\VBConsole\VBConsole\obj\Debug\VBConsole.pdb
