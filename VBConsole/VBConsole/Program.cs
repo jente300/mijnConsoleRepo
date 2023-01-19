@@ -10,7 +10,9 @@ namespace VBConsole
     {
         static void Main(string[] args)
         {
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Hello world!");
+            Console.WriteLine("Druk op een toets om te stoppen...");
             Console.ReadKey();
         }
     }
